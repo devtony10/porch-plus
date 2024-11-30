@@ -1,0 +1,4 @@
+.header-wrap {
+  position: -webkit-sticky;
+  -webkit-transition: top 0.5s;
+}
